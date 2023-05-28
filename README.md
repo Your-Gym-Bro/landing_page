@@ -1,2 +1,2 @@
 # coaching_client
-Personal trainer
+Landing page
